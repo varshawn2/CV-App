@@ -1,0 +1,11 @@
+
+.schoolContainer{
+    align-content: center;
+    display: inline-block;
+    text-align: center;
+    flex-direction:column;
+    width: 200px;
+    margin-top: 50px;
+    align-items: center; 
+}
+

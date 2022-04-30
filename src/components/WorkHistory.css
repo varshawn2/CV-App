@@ -1,0 +1,15 @@
+
+.workContainer{
+    align-content: center;
+    display: inline-block;
+    flex-direction:column;
+    width: 200px;
+    height: 315px;
+    margin-top: 50px;
+    border: 5px;
+    align-items: center;
+    text-align: center;
+}
+.additem{
+    cursor: pointer;
+}

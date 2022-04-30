@@ -1,0 +1,34 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px ;
+    flex-direction:column;
+    width: 100%;
+    height: 100%;
+}
+.box{
+    border: 5px #ff8800 double;
+    background-color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    width: 29%;
+    height: 100%;
+}
+
+.finish{
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3f3f3f;
+    color: #ff8800;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;  
+    width: 189px;  
+    height: 50px;  
+
+}
+.finish:hover{
+    background-color: green;
+    color: white;
+}
